@@ -1,0 +1,17 @@
+a:link{
+
+color:blue;
+
+background-color:black;
+
+padding:20px 30px;
+
+}
+
+a:hover{
+
+color:black;
+
+background-color:yellow;
+
+}
